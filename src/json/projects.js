@@ -23,4 +23,37 @@ export const projects = [
     git: "https://github.com/svskaushik/dapp-exchange-project",
     live: "https://dapp-exchange-project.herokuapp.com/",
   },
+  {
+  img: "https://cdn.jsdelivr.net/gh/svskaushik/Python-Apps@main/bitcoin-price/btc.gif",
+  name: "Bitcoin Tracker",
+  ext: "py",
+  lang: "python",
+  git: "https://github.com/svskaushik/Python-Apps/tree/main/bitcoin-price",
+  live: "https://github.com/svskaushik/Python-Apps/tree/main/bitcoin-price",
+},
+  {
+  img: "https://cdn.jsdelivr.net/gh/svskaushik/Python-Apps@main/face-mask/facemask.gif",
+  name: "Facemask Detection",
+  ext: "py",
+  lang: "python",
+  git: "https://github.com/svskaushik/Python-Apps/tree/main/face-mask",
+  live: "https://github.com/svskaushik/Python-Apps/tree/main/face-mask",
+},
+  {
+  img: "https://cdn.jsdelivr.net/gh/svskaushik/Python-Apps@main/covid-stats/covidstats.png",
+  name: "Covid Stats",
+  ext: "py",
+  lang: "python",
+  git: "https://github.com/svskaushik/Python-Apps/tree/main/covid-stats",
+  live: "https://github.com/svskaushik/Python-Apps/tree/main/covid-stats",
+},
+  {
+  img: "https://cdn.jsdelivr.net/gh/svskaushik/Python-Apps@main/Voice-Recognition%20AI/voice-ai.gif",
+  name: "Voice Assistant",
+  ext: "py",
+  lang: "python",
+  git: "https://github.com/svskaushik/Python-Apps/tree/main/Voice-Recognition%20AI",
+  live: "https://github.com/svskaushik/Python-Apps/tree/main/Voice-Recognition%20AI",
+},
+
 ];

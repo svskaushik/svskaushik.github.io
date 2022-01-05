@@ -108,7 +108,7 @@ a {
   height: auto;
   transition: 500ms;
   margin-bottom: 10px;
-  border-radius: 5px;
+  border-radius: 10px;
   opacity: 1;
   page-break-inside: avoid;
   -webkit-column-break-inside: avoid;
@@ -118,7 +118,7 @@ a {
 }
 
 .gallery img:hover {
-  box-shadow: 10px 10px 8px #888888;;
+  box-shadow: 10px #888888;;
 
 }
 
