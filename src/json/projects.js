@@ -13,7 +13,7 @@ export const projects = [
     ext: "jsx",
     lang: "js,solidity",
     git: "https://github.com/svskaushik/cheforama-marketplace",
-    live: "https://cheforama.vercel.app/",
+    live: "https://cheforama-marketplace-svskaushik.vercel.app/",
   },
   {
     img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/dapp.JPG",
