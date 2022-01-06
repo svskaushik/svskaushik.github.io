@@ -13,16 +13,19 @@ import Skills from "./components/Skills";
 import Work from "./components/Work";
 import Contact from "./components/Contact";
 
+function Resume() {
 
+  useEffect(() => {
+    window.location.href = "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/svsresume.pdf";
+  }, []);
+
+  return null;
+}
 
 export default function App() {
   return (
     <Router>
       <Nav />
-      <audio
-        id="music"
-        src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/355309/Shuffle_A.mp3"
-      ></audio>
       <Switch>
         <Route path={process.env.PUBLIC_URL + "/"} exact>
           <Home />
@@ -38,6 +41,9 @@ export default function App() {
         </Route>
         <Route path={process.env.PUBLIC_URL + "/contact"} exact>
           <Contact />
+        </Route>
+        <Route path={process.env.PUBLIC_URL + "/resume"} exact>
+          <Resume />
         </Route>
         <Redirect to="/" />
       </Switch>

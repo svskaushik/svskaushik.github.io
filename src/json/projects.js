@@ -8,14 +8,6 @@ export const projects = [
     live: "https://metaversemarket.vercel.app/",
   },
   {
-    img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/wechef.JPG",
-    name: "WeChef NFT",
-    ext: "jsx",
-    lang: "js,solidity",
-    git: "https://github.com/svskaushik/cheforama-marketplace",
-    live: "https://cheforama-marketplace-svskaushik.vercel.app/",
-  },
-  {
     img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/dapp.JPG",
     name: "ERC-20 Exchange",
     ext: "jsx",
@@ -32,6 +24,14 @@ export const projects = [
   live: "https://github.com/svskaushik/Python-Apps/tree/main/bitcoin-price",
 },
   {
+  img: "https://cdn.jsdelivr.net/gh/svskaushik/portfolio-parallax@main/img/portfolio-parallax.png",
+  name: "Parallax Portfolio",
+  ext: "jsx",
+  lang: "js",
+  git: "https://github.com/svskaushik/portfolio-parallax",
+  live: "https://portfolio-parallax.vercel.app/",
+},
+  {
   img: "https://cdn.jsdelivr.net/gh/svskaushik/Python-Apps@main/face-mask/facemask.gif",
   name: "Facemask Detection",
   ext: "py",
@@ -39,6 +39,14 @@ export const projects = [
   git: "https://github.com/svskaushik/Python-Apps/tree/main/face-mask",
   live: "https://github.com/svskaushik/Python-Apps/tree/main/face-mask",
 },
+  {
+  img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/wechef.JPG",
+  name: "WeChef NFT",
+  ext: "jsx",
+  lang: "js,solidity",
+  git: "https://github.com/svskaushik/cheforama-marketplace",
+  live: "https://cheforama-marketplace-svskaushik.vercel.app/",
+  },
   {
   img: "https://cdn.jsdelivr.net/gh/svskaushik/Python-Apps@main/covid-stats/covidstats.png",
   name: "Covid Stats",

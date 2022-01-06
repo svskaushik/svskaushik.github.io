@@ -87,7 +87,15 @@ export default function Nav() {
           </li>
         </ul>
       </div>
-
+      <Link className="bkmrk" target="_blank"
+        to="/resume"
+      >
+        <img
+          src="Resumebkmrk.png"
+          alt="Resume"
+        />
+        <span className="folded-corner"></span>
+      </Link>
      
     </>
   );
