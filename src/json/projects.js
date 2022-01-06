@@ -2,7 +2,7 @@ export const projects = [
   {
     img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/metaverse.JPG",
     name: "Polygon NFT market",
-    ext: "jsx",
+    ext: "jsx/sol",
     lang: "js,solidity",
     git: "https://github.com/svskaushik/NFT-Marketplace",
     live: "https://metaversemarket.vercel.app/",
@@ -10,7 +10,7 @@ export const projects = [
   {
     img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/dapp.JPG",
     name: "ERC-20 Exchange",
-    ext: "jsx",
+    ext: "jsx/sol",
     lang: "js,solidity",
     git: "https://github.com/svskaushik/dapp-exchange-project",
     live: "https://dapp-exchange-project.herokuapp.com/",
@@ -42,7 +42,7 @@ export const projects = [
   {
   img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/wechef.JPG",
   name: "WeChef NFT",
-  ext: "jsx",
+  ext: "jsx/sol",
   lang: "js,solidity",
   git: "https://github.com/svskaushik/cheforama-marketplace",
   live: "https://cheforama-marketplace-svskaushik.vercel.app/",
