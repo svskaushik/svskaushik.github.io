@@ -1,7 +1,23 @@
 export const projects = [
   {
+    img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/pizzawallet.JPG",
+    name: "Pizza Wallet",
+    ext: "jsx/sol",
+    lang: "js,solidity",
+    git: "https://github.com/Pizza-Wallet-Development-team/Moralis-Mock-up",
+    live: "https://pizza-wallet.vercel.app/",
+  },
+  {
+    img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/3fi.JPG",
+    name: "Web3 Music: 3fi",
+    ext: "jsx/sol",
+    lang: "js,solidity",
+    git: "https://github.com/svskaushik/3-fi",
+    live: "https://3fi.vercel.app/",
+  },
+  {
     img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/metaverse.JPG",
-    name: "Polygon NFT market",
+    name: "Polygon NFT mart",
     ext: "jsx/sol",
     lang: "js,solidity",
     git: "https://github.com/svskaushik/NFT-Marketplace",
@@ -9,7 +25,7 @@ export const projects = [
   },
   {
     img: "https://cdn.jsdelivr.net/gh/svskaushik/svskaushik@main/Assets/dapp.JPG",
-    name: "ERC-20 Exchange",
+    name: "Token Exchange",
     ext: "jsx/sol",
     lang: "js,solidity",
     git: "https://github.com/svskaushik/dapp-exchange-project",

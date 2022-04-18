@@ -40,12 +40,13 @@ export default function About() {
             </span>
           </h1>
           <p align="LEFT">
-            A skilled and quick-to-learn computer science student with extensive
+            I make magic internet money work, or at least that's what I'm trying to do.
+            Like to think of myself as a (decently) skilled and quick-to-learn computer science student with considerable
             knowledge of <strong>programming</strong> and&nbsp;
             <strong>computer applications</strong> . 👨‍💻
             <br />
             <br />
-            Enthusiastic problem solver, quick learner,
+            Enthusiastic problem solver, quick learner(even if I do say so myself) ,
             organized debugger and
             an avid fan of all that's happening in the blockchain space.
             <br />
