@@ -66,7 +66,7 @@ export default function Home() {
             <span className="blast">e</span>
             <span className="blast">v</span>
           </h1>
-          <h2>Full Stack | Blockchain Developer </h2>
+          <h2>Full Stack | Blockchain Developer under development </h2>
           <div className="icons">
             <a href="https://twitter.com/svs_kaushik" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-twitter fa-3x"></i>

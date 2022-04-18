@@ -34,9 +34,9 @@ export default function Skills() {
             The tech I'm familiar with:
             &nbsp;&nbsp; <b>Javascript &nbsp;|&nbsp; Solidity &nbsp;|&nbsp; Python  &nbsp;</b><br />
             <br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs | NextJs | Vue<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; NodeJs | TailwindCSS <br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; Blockchain | Ethereum | Polygon | BSC<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs | NextJs | The Graph<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; NodeJs | TailwindCSS | Moralis<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; Blockchain | Ethereum | Polygon | BSC | AVAX<br />
             &nbsp;&nbsp; • &nbsp;&nbsp; EVM based development | NFTs | Smart Contracts<br />
             &nbsp;&nbsp; • &nbsp;&nbsp; Spline3D | Image Processing<br />
             <br />
