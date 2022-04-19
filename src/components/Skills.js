@@ -40,12 +40,11 @@ export default function Skills() {
             &nbsp;&nbsp; • &nbsp;&nbsp; EVM based development | NFTs | Smart Contracts<br />
             &nbsp;&nbsp; • &nbsp;&nbsp; Spline3D | Image Processing<br />
             <br />
-            I'm currently working with
+            I'm currently overseeing tech and development for
               <a href="https://www.thecheforama.com"
               target="_blank" rel="noopener noreferrer"
               style={{ color: "#23ffde" }} > &nbsp;Cheforama&nbsp;
               </a>
-            as CTO
             <br />
             <br />
             Visit my&nbsp;
