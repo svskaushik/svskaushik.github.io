@@ -28,7 +28,7 @@ export default function Skills() {
             </span>
           </h1>
           <p align="LEFT">
-            The main area of my expertise is Blockchain and Web development.
+            My primary interests lie in Blockchain and Web3 development.
             <br />
             <br />
             The tech I'm familiar with:

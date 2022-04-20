@@ -40,7 +40,7 @@ export default function About() {
             </span>
           </h1>
           <p align="LEFT">
-            I make magic internet money work, or at least that's what I'm trying to do.
+            Gm, I make magic internet money work, or at least that's what I'm trying to do.
             Like to think of myself as a (decently) skilled and quick-to-learn computer science student with considerable
             knowledge of <strong>programming</strong> and&nbsp;
             <strong>computer applications</strong> . 👨‍💻
@@ -51,11 +51,11 @@ export default function About() {
             an avid fan of all that's happening in the blockchain space.
             <br />
             <br />
-            Interested in the development spectrum and willing to contribute to projects
-            in the web3 and blockchain space whether it be back-end development or front-end.
+            Interested in all the innovation that the 'Web3' spectrum has and willing to do my best to contribute to projects
+            building the decentralized Web.
             <br />
             <br />
-            Follow me on&nbsp;
+            Give me a ping on&nbsp;
             <a
               href="https://twitter.com/svs_kaushik"
               target="_blank" rel="noopener noreferrer"
@@ -63,7 +63,7 @@ export default function About() {
             >
               Twitter&nbsp;
             </a>
-            to know more or just&nbsp;
+            to know more or&nbsp;
             <a href="/contact" style={{ color: "#23ffde" }}>
               contact&nbsp;
             </a>
