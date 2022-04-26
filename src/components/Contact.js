@@ -107,6 +107,7 @@ export default function Contact() {
             src="https://maps.google.com/maps?q=new%20delhi&t=&z=13&ie=UTF8&iwloc=&output=embed"
             width="100%"
             height="100%"
+            style={{ filter: "invert(100%)" }}
             frameBorder="0"
             allowFullScreen=""
             scrolling="no"
