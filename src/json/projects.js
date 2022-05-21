@@ -4,7 +4,7 @@ export const projects = [
     name: "Pizza Wallet",
     ext: "jsx/sol",
     lang: "js,solidity",
-    git: "https://github.com/Pizza-Wallet-Development-team/Moralis-Mock-up",
+    git: "https://github.com/svskaushik/Pizza-Wallet",
     live: "https://pizza-wallet.vercel.app/",
   },
   {
@@ -29,7 +29,7 @@ export const projects = [
     ext: "jsx/sol",
     lang: "js,solidity",
     git: "https://github.com/svskaushik/dapp-exchange-project",
-    live: "https://dapp-exchange-project.herokuapp.com/",
+    live: "https://dapp-exchange-project.vercel.app/",
   },
   {
   img: "https://cdn.jsdelivr.net/gh/svskaushik/Python-Apps@main/bitcoin-price/btc.gif",
