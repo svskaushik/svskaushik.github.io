@@ -17,13 +17,13 @@ export default function Skills() {
             aria-label=" Hi, I’m Shaurya Veer, blockchain dev."
             className="blast-root"
           >
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               Skills&nbsp;
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               &&nbsp;
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               Experience
             </span>
           </h1>
@@ -43,7 +43,7 @@ export default function Skills() {
             I'm currently overseeing tech and development for
               <a href="https://www.thecheforama.com"
               target="_blank" rel="noopener noreferrer"
-              style={{ color: "#23ffde" }} > &nbsp;Cheforama&nbsp;
+              style={{ color: "#38b6ff" }} > &nbsp;Cheforama&nbsp;
               </a>
             <br />
             <br />
@@ -51,12 +51,12 @@ export default function Skills() {
             <a
               href="https://www.linkedin.com/in/shaurya-veer-singh-b45318226/"
               target="_blank" rel="noopener noreferrer"
-              style={{ color: "#23ffde" }}
+              style={{ color: "#38b6ff" }}
             >
               LinkedIn&nbsp;
             </a>
             profile for more details or just&nbsp;
-            <a href="/contact" style={{ color: "#23ffde" }}>
+            <a href="/contact" style={{ color: "#38b6ff" }}>
               contact&nbsp;
             </a>
             me.

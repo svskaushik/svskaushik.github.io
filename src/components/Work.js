@@ -51,7 +51,7 @@ export default function Work() {
 
   return (
     <div className="gal-container">
-      <h1 style={{ textAlign: "center", margin: "1rem", color: "#23ffde" }}>
+      <h1 style={{ textAlign: "center", margin: "1rem", color: "#38b6ff" }}>
         <span className="blast">Projects . </span>
         <select
           className="select-css"

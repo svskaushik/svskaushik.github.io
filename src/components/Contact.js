@@ -35,36 +35,36 @@ export default function Contact() {
             aria-label=" Hi, I’m Shaurya Veer, blockchain dev."
             className="blast-root"
           >
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               C
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               o
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               n
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               t
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               a
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               c
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               t&nbsp;
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               m
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               e
             </span>
           </h1>
           <p>
-            I would love to hear more about your blockchain project and explore how we could collaborate. My email is <a href = "mailto: abc@example.com" style={{ color: "#23ffde" }}>shaurya9702@gmail.com</a>. You can also connect with me on 
+            I would love to hear more about your blockchain project and explore how we could collaborate. My email is <a href = "mailto: abc@example.com" style={{ color: "#38b6ff" }}>shaurya9702@gmail.com</a>. You can also connect with me on 
             any of my socials below:
           </p>
 

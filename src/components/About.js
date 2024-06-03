@@ -17,25 +17,25 @@ export default function About() {
             aria-label=" Hi, I’m Shaurya Veer, blockchain dev."
             className="blast-root"
           >
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               A
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               b
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               o
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               u
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               t&nbsp;
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               m
             </span>
-            <span className="blast" style={{ color: "#23ffde" }}>
+            <span className="blast" style={{ color: "#38b6ff" }}>
               e
             </span>
           </h1>
@@ -59,12 +59,12 @@ export default function About() {
             <a
               href="https://twitter.com/svs_kaushik"
               target="_blank" rel="noopener noreferrer"
-              style={{ color: "#23ffde" }}
+              style={{ color: "#38b6ff" }}
             >
               Twitter&nbsp;
             </a>
             to know more or&nbsp;
-            <a href="/contact" style={{ color: "#23ffde" }}>
+            <a href="/contact" style={{ color: "#38b6ff" }}>
               contact&nbsp;
             </a>
             me.

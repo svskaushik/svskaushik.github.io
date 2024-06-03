@@ -72,7 +72,7 @@ function Guitar(props) {
           <polyline
             className="play-icon"
             fill="none"
-            stroke="#23ffde"
+            stroke="#38b6ff"
             strokeWidth="7"
             strokeLinecap="round"
             strokeLinejoin="round"
@@ -82,7 +82,7 @@ function Guitar(props) {
           <g className="pause-icon">
             <rect
               id="pause-1"
-              fill="#23ffde"
+              fill="#38b6ff"
               x="817"
               y="1137"
               width="12"
@@ -90,7 +90,7 @@ function Guitar(props) {
             ></rect>
             <rect
               id="pause-2"
-              fill="#23ffde"
+              fill="#38b6ff"
               x="840"
               y="1137"
               width="12"

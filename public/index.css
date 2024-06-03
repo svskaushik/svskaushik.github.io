@@ -44,7 +44,7 @@
 	 background-color: #000;
 }
  .active-nav i {
-	 color: #23ffde;
+	 color: #38b6ff;
 }
  #nav-bar {
 	 background: #181818;
@@ -73,7 +73,7 @@
 	 color: #909096;
 }
  #nav-bar nav:hover {
-	 color: #23ffde;
+	 color: #38b6ff;
 }
  #nav-bar ul {
 	 display: block;
@@ -92,7 +92,7 @@
 	 color: #909096;
 }
  #nav-bar ul li a:hover {
-	 color: #23ffde;
+	 color: #38b6ff;
 }
  .overlay {
 	 position: absolute;
@@ -109,7 +109,7 @@
 	 opacity: 1;
 }
  .text {
-	 color: #23ffde;
+	 color: #38b6ff;
 	 font-family: "Open Sans", sans-serif;
 	 font-size: 11px;
 	 font-weight: 100;
@@ -146,7 +146,7 @@
 	 animation: myanim2 1s 1s backwards;
 }
  .icons a {
-	 color: #23ffde;
+	 color: #38b6ff;
 	 padding: 0.5rem;
 	 padding-right: 1rem;
 }
@@ -210,7 +210,7 @@
 	 font-stretch: narrower;
 	 padding: 4px;
 	 color: #ff2b6b;
-	 text-shadow: -1px 0 #08fdd8, -2px 0 #08fdd8, -3px 0 #08fdd8;
+	 text-shadow: -1px 0 #38b6ff, -2px 0 #38b6ff, -3px 0 #38b6ff;
 	 display: inline-block;
 	 transform: rotate(180deg);
 	 opacity: 0;
@@ -281,7 +281,7 @@
 	 transition: all 0.3s ease-out;
 }
  .home-page .blast:hover {
-	 color: #08fdd8;
+	 color: #38b6ff;
 }
  .guitarSvg {
 	 position: absolute;
@@ -408,12 +408,12 @@
 	 right: 0;
 	 margin-left: 30.7rem;
 	 background-color: transparent;
-	 border: #23ffde 1px solid;
-	 color: #23ffde;
+	 border: #38b6ff 1px solid;
+	 color: #38b6ff;
 	 outline: none;
 }
  #sub-btn:hover {
-	 background-color: #23ffde;
+	 background-color: #38b6ff;
 	 color: #1d1d1d;
 }
  .mapouter {
