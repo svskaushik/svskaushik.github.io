@@ -5,7 +5,7 @@ import bounce from "../script/bounce";
 export default function Home() {
   useEffect(() => {
     document.title =
-      "Shaurya Veer Singh | Full Stack Developer | Blockchain Developer";
+      "Shaurya Veer Singh | Full Stack Developer";
 
     bounce();
     // guitarAnim();
@@ -27,7 +27,7 @@ export default function Home() {
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
           <h1
-            aria-label=" Hi, I’m Shaurya,web developer."
+            aria-label=" Hi, I’m Shaurya, web developer."
             className="blast-root"
           >
             <span className="blast">H</span>
@@ -50,23 +50,8 @@ export default function Home() {
             <span className="blast">e</span>
             <span className="blast">e</span>
             <span className="blast">r</span>
-            <span className="blast">,</span>
-            <br />
-            <span className="blast">b</span>
-            <span className="blast">l</span>
-            <span className="blast">o</span>
-            <span className="blast">c</span>
-            <span className="blast">k</span>
-            <span className="blast">c</span>
-            <span className="blast">h</span>
-            <span className="blast">a</span>
-            <span className="blast">i</span>
-            <span className="blast">n&nbsp;</span>
-            <span className="blast">d</span>
-            <span className="blast">e</span>
-            <span className="blast">v</span>
           </h1>
-          <h2>Full Stack | Blockchain Developer under development </h2>
+          <h2>Full Stack | Developer under development </h2>
           <div className="icons">
             <a href="https://twitter.com/svs_kaushik" target="_blank" rel="noopener noreferrer">
               <i className="fab fa-twitter fa-3x"></i>

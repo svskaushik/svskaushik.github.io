@@ -14,33 +14,17 @@ export default function About() {
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
           <h1
-            aria-label=" Hi, I’m Shaurya Veer, blockchain dev."
+            aria-label=" Hi, I’m Shaurya Veer."
             className="blast-root"
           >
-            <span className="blast" style={{ color: "#38b6ff" }}>
-              A
-            </span>
-            <span className="blast" style={{ color: "#38b6ff" }}>
-              b
-            </span>
-            <span className="blast" style={{ color: "#38b6ff" }}>
-              o
-            </span>
-            <span className="blast" style={{ color: "#38b6ff" }}>
-              u
-            </span>
-            <span className="blast" style={{ color: "#38b6ff" }}>
-              t&nbsp;
-            </span>
-            <span className="blast" style={{ color: "#38b6ff" }}>
-              m
-            </span>
-            <span className="blast" style={{ color: "#38b6ff" }}>
-              e
-            </span>
+            {"About me".split("").map((char, index) => (
+              <span key={index} className="blast" style={{ color: "#38b6ff" }}>
+                {char}
+              </span>
+            ))}
           </h1>
           <p align="LEFT">
-            Gm, I make magic internet money work, or at least that's what I'm trying to do.
+            Hey there! I'm just a dev who enjoys turning tricky problems into clean code. Or, at least, that's what I try to do.
             Like to think of myself as a (decently) skilled and quick-to-learn computer science student with considerable
             knowledge of <strong>programming</strong> and&nbsp;
             <strong>computer applications</strong> . 👨‍💻
@@ -48,7 +32,7 @@ export default function About() {
             <br />
             Enthusiastic problem solver, quick learner(even if I do say so myself) ,
             organized debugger and
-            an avid fan of all that's happening in the blockchain space.
+            an avid fan of all that's happening in the space.
             <br />
             <br />
             Interested in all the innovation that the 'Web3' spectrum has and willing to do my best to contribute to projects

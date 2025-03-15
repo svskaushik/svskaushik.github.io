@@ -14,7 +14,7 @@ export default function Skills() {
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
           <h1
-            aria-label=" Hi, I’m Shaurya Veer, blockchain dev."
+            aria-label=" Hi, I’m Shaurya Veer."
             className="blast-root"
           >
             <span className="blast" style={{ color: "#38b6ff" }}>
@@ -28,16 +28,15 @@ export default function Skills() {
             </span>
           </h1>
           <p align="LEFT">
-            My primary interests lie in Blockchain and Web3 development.
+            My primary interests lie in problem solving and developing useful solutions.
             <br />
             <br />
             The tech I'm familiar with:
             &nbsp;&nbsp; <b>Javascript &nbsp;|&nbsp; Solidity &nbsp;|&nbsp; Python  &nbsp;</b><br />
             <br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs | NextJs | The Graph<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; NodeJs | TailwindCSS | Moralis<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; Blockchain | Ethereum | Polygon | BSC | AVAX<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; EVM based development | NFTs | Smart Contracts<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs | NextJs | Node<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; Pytorch | Transformers| NLP<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; EVM based development | Cryptography <br />
             &nbsp;&nbsp; • &nbsp;&nbsp; Spline3D | Image Processing<br />
             <br />
             I'm currently overseeing tech and development for

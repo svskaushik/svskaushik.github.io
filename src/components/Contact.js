@@ -32,7 +32,7 @@ export default function Contact() {
         <span className="tags top-tags"> &nbsp;&nbsp;&nbsp;&lt;body&gt;</span>
         <div className="text-zone">
           <h1
-            aria-label=" Hi, I’m Shaurya Veer, blockchain dev."
+            aria-label=" Hi, I’m Shaurya Veer."
             className="blast-root"
           >
             <span className="blast" style={{ color: "#38b6ff" }}>
@@ -64,7 +64,7 @@ export default function Contact() {
             </span>
           </h1>
           <p>
-            I would love to hear more about your blockchain project and explore how we could collaborate. My email is <a href = "mailto: abc@example.com" style={{ color: "#38b6ff" }}>shaurya9702@gmail.com</a>. You can also connect with me on 
+            I would love to hear more about your projects and explore how we could collaborate. My email is <a href = "mailto: shaurya9702@gmail.com" style={{ color: "#38b6ff" }}>shaurya9702@gmail.com</a>. You can also connect with me on 
             any of my socials below:
           </p>
 
